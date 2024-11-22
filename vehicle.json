@@ -1,0 +1,31 @@
+[
+    {
+        "brand": "Toyota",
+        "model": "Camry",
+        "year": 2020,
+        "fuel_type": "Gasoline",
+        "doors": 5,
+        "type": "Car"
+    },
+    {
+        "brand": "Yamaha",
+        "model": "YZF-R3",
+        "year": 2019,
+        "type_of_bike": "Sport",
+        "type": "Bike"
+    },
+    {
+        "brand": "Volvo",
+        "model": "FH16",
+        "year": 2018,
+        "max_load": 40000,
+        "type": "Truck"
+    },
+    {
+        "brand": "Mercedes-Benz",
+        "model": "Citaro",
+        "year": 2021,
+        "capacity": 50,
+        "type": "Bus"
+    }
+]

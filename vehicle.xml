@@ -1,0 +1,27 @@
+<items>
+    <item>
+        <_brand>Toyota</_brand>
+        <_model>Camry</_model>
+        <_year>2020</_year>
+        <_fuel_type>Gasoline</_fuel_type>
+        <_doors>5</_doors>
+    </item>
+    <item>
+        <_brand>Yamaha</_brand>
+        <_model>YZF-R3</_model>
+        <_year>2019</_year>
+        <_type_of_bike>Sport</_type_of_bike>
+    </item>
+    <item>
+        <_brand>Volvo</_brand>
+        <_model>FH16</_model>
+        <_year>2018</_year>
+        <_max_load>40000</_max_load>
+    </item>
+    <item>
+        <_brand>Mercedes-Benz</_brand>
+        <_model>Citaro</_model>
+        <_year>2021</_year>
+        <_capacity>50</_capacity>
+    </item>
+</items>
