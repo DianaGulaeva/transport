@@ -4,7 +4,7 @@ class Car(Vehicle):
     def __init__(self, brand: str, model: str, year: int, fuel_type: str, doors: int):
         super().__init__(brand, model, year)
         self._fuel_type = fuel_type
-        self._doors = doors
+        self.set_doors(doors)
 
     def get_fuel_type(self) -> str:
         return self._fuel_type

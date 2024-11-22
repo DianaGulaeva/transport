@@ -3,7 +3,7 @@ from transport_classes.vehicle import Vehicle
 class Bus(Vehicle):
     def __init__(self, brand: str, model: str, year: int, capacity: int):
         super().__init__(brand, model, year)
-        self._capacity = capacity
+        self.set_capacity(capacity)
 
     def get_capacity(self) -> int:
         return self._capacity

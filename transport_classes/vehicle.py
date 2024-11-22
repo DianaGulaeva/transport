@@ -1,13 +1,12 @@
 from typing import List
 
-
 class Vehicle:
     vehicles_db: List['Vehicle'] = []
 
     def __init__(self, brand: str, model: str, year: int):
-        self._brand = brand
-        self._model = model
-        self._year = year
+        self.set_brand(brand)
+        self.set_model(model)
+        self.set_year(year)
         Vehicle.vehicles_db.append(self)
 
     def get_brand(self) -> str:
